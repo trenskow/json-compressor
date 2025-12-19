@@ -1,6 +1,6 @@
 {
 	"name": "@trenskow/json-compressor",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "A simple JSON to JSON compressor for JavaScript.",
 	"keywords": [
 		"json",
