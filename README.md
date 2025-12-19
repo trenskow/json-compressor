@@ -20,7 +20,7 @@ myObject.circular = myObject;
 
 const json = JSON.stringify(deflate(myObject));
 
-inflate(JSON.parse(JSON)); // Returns copy of original instance (with circular reference preserved).
+inflate(JSON.parse(json)); // Returns copy of original instance (with circular reference preserved).
 ````
 
 # License
