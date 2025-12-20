@@ -26,4 +26,3 @@ inflate(JSON.parse(json)); // Returns copy of original instance (with circular r
 # License
 
 See license in LICENSE.
-

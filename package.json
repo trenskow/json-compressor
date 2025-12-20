@@ -19,6 +19,7 @@
 	"author": "Kristian Trenskow <this.is@kristians.email>",
 	"type": "module",
 	"main": "index.js",
+	"types": "index.d.ts",
 	"scripts": {
 		"test": "node ./node_modules/mocha/bin/mocha.js ./test/index.js"
 	},
