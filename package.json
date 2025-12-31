@@ -26,12 +26,12 @@
 	"devDependencies": {
 		"@eslint/eslintrc": "^3.3.3",
 		"@eslint/js": "^9.39.2",
-		"chai": "^6.2.1",
+		"chai": "^6.2.2",
 		"eslint": "^9.39.2",
 		"globals": "^16.5.0",
 		"mocha": "^11.7.5"
 	},
 	"dependencies": {
-		"@trenskow/equals": "^0.1.2"
+		"@trenskow/equals": "^0.1.3"
 	}
 }
