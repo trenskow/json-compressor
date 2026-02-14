@@ -25,13 +25,13 @@
 	},
 	"devDependencies": {
 		"@eslint/eslintrc": "^3.3.3",
-		"@eslint/js": "^9.39.2",
+		"@eslint/js": "^10.0.1",
 		"chai": "^6.2.2",
-		"eslint": "^9.39.2",
+		"eslint": "^10.0.0",
 		"globals": "^17.3.0",
 		"mocha": "^11.7.5"
 	},
 	"dependencies": {
-		"@trenskow/equals": "^0.1.5"
+		"@trenskow/equals": "^0.1.6"
 	}
 }
