@@ -32,6 +32,6 @@
 		"mocha": "^12.0.2"
 	},
 	"dependencies": {
-		"@trenskow/equals": "^0.1.20"
+		"@trenskow/equals": "^0.1.21"
 	}
 }
